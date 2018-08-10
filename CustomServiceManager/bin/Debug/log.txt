@@ -1,0 +1,25 @@
+2018-08-10 15:58:00,423 INFO  Thread[1] [CustomServiceManager.Configure] - All events are cleared 
+2018-08-10 15:58:01,185 DEBUG Thread[1] [CustomServiceManager.Configure] - Saved service event list to appSetting 
+2018-08-10 15:58:02,475 DEBUG Thread[1] [CustomServiceManager.Configure] - Destroyed 
+2018-08-10 15:58:03,697 DEBUG Thread[1] [CustomServiceManager.Configure] - Loaded windows service list 
+2018-08-10 15:58:03,701 DEBUG Thread[1] [CustomServiceManager.Configure] - Loaded service group list from appSetting 
+2018-08-10 15:58:03,706 DEBUG Thread[1] [CustomServiceManager.Configure] - Initialized 
+2018-08-10 15:58:04,807 INFO  Thread[1] [CustomServiceManager.Configure] - All groups and services are cleared 
+2018-08-10 15:58:05,859 DEBUG Thread[1] [CustomServiceManager.Configure] - Saved service group list to appSetting 
+2018-08-10 15:58:07,222 DEBUG Thread[1] [CustomServiceManager.Configure] - Destroyed 
+2018-08-10 15:58:07,234 INFO  Thread[1] [CustomServiceManager.Manager] - Updated service group list 
+2018-08-10 15:58:10,902 DEBUG Thread[1] [CustomServiceManager.Configure] - Loaded service group list from appSetting 
+2018-08-10 15:58:10,903 DEBUG Thread[1] [CustomServiceManager.Configure] - Loaded event list from appSetting 
+2018-08-10 15:58:10,903 DEBUG Thread[1] [CustomServiceManager.Configure] - Initialized 
+2018-08-10 15:58:13,691 DEBUG Thread[1] [CustomServiceManager.Configure] - Destroyed 
+2018-08-10 15:58:14,299 DEBUG Thread[1] [CustomServiceManager.Manager] - Destroyed 
+2018-08-10 16:02:36,661 DEBUG Thread[1] [CustomServiceManager.Manager] - Loaded service group list from appSetting 
+2018-08-10 16:02:36,673 INFO  Thread[1] [CustomServiceManager.Manager] - Updated service group list 
+2018-08-10 16:02:36,677 DEBUG Thread[1] [CustomServiceManager.Manager] - Loaded event list from appSetting 
+2018-08-10 16:02:36,679 DEBUG Thread[1] [CustomServiceManager.Manager] - Initialized 
+2018-08-10 16:02:48,662 DEBUG Thread[1] [CustomServiceManager.Manager] - Destroyed 
+2018-08-10 16:03:54,402 DEBUG Thread[1] [CustomServiceManager.Manager] - Loaded service group list from appSetting 
+2018-08-10 16:03:54,414 INFO  Thread[1] [CustomServiceManager.Manager] - Updated service group list 
+2018-08-10 16:03:54,416 DEBUG Thread[1] [CustomServiceManager.Manager] - Loaded event list from appSetting 
+2018-08-10 16:03:54,419 DEBUG Thread[1] [CustomServiceManager.Manager] - Initialized 
+2018-08-10 16:03:55,626 DEBUG Thread[1] [CustomServiceManager.Manager] - Destroyed 

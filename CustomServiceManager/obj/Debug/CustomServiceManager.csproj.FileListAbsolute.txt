@@ -1,0 +1,14 @@
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\bin\Debug\CustomServiceManager.exe.config
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\bin\Debug\CustomServiceManager.exe
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\bin\Debug\CustomServiceManager.pdb
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\bin\Debug\log4net.dll
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.Properties.Resources.resources
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.Manager.resources
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.Configure.resources
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.csproj.GenerateResource.Cache
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.csproj.CoreCompileInputs.cache
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.exe
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.pdb
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.csprojResolveAssemblyReference.cache
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\bin\Debug\CustomServiceManager.log.config
+D:\Work\3 Code\C#\CustomServiceManager\CustomServiceManager\obj\Debug\CustomServiceManager.Event.resources
